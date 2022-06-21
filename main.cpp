@@ -3,5 +3,5 @@
 #include "timetools.hpp"
 
 int main() {
-    cout << "hello";
+    
 }
