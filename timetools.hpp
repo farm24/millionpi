@@ -2,7 +2,7 @@
 #include <time.h>
 using namespace std;
 
-void timesort(time_t y, time_t x) {
+void exectime(time_t y, time_t x) {
     float ts, tm, th, td, tw = 0;
     bool tsb, tmb, thb, tdb, twb = false;
     ts = (y - x); 
