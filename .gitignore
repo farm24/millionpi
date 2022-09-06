@@ -1,1 +1,5 @@
-/V2/venv/
+/venv/
+
+/V2/main.txt/
+
+/V2/main.csv/
