@@ -1,6 +1,6 @@
 from mpmath import *
 import csv
-mp.dps = 100000; mp.pretty = True
-x = mpf(1)/mpf(3)
+mp.dps = 100; mp.pretty = True
+x = nsum(lambda n:)
 with open('main.txt', 'w', newline='') as txt:
     txt.write(str(x))
